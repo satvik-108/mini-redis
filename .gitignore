@@ -1,0 +1,6 @@
+# Compiled binaries and object files
+*.o
+mini-redis
+
+# Local database persistence log
+appendonly.aof
